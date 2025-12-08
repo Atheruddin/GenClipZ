@@ -1,0 +1,6 @@
+file 'C:/Users/ather/shorts vid creater/temp/do_goats_really_eat_everything.mp4'
+file 'C:/Users/ather/shorts vid creater/temp/goats_and_their_distinctive_smell.mp4'
+file 'C:/Users/ather/shorts vid creater/temp/how_goats_help_the_environment.mp4'
+file 'C:/Users/ather/shorts vid creater/temp/the_amazing_climbing_ability_of_goats.mp4'
+file 'C:/Users/ather/shorts vid creater/temp/the_social_lives_of_goats.mp4'
+file 'C:/Users/ather/shorts vid creater/temp/why_do_goats_have_rectangular_pupils.mp4'
